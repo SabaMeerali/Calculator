@@ -16,3 +16,9 @@ Technologies Used
 Java (JDK 8 or later) – Core programming language
 Swing – For building the graphical user interface
 NetBeans IDE – For designing and coding the application
+
+Learning Purpose
+This project is a beginner-friendly example for learning:
+Java Swing GUI development
+Event handling in Java
+Basic calculator logic
